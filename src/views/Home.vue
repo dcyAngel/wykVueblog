@@ -97,7 +97,7 @@
               <el-card class="box-card">
                  <div style="text-align: center;">
                    <img width="100" height="100" src="https://xdragon0.gitee.io/img/author.png" />
-                   <p style="line-height: 0;">吴永康</p>
+                   <p style="line-height: 0;">董春艳</p>
                    <p style="font-size: 15px;">不积硅步，无以至千里</p>
                   </div>
               </el-card>
